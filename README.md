@@ -5,7 +5,7 @@ Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS
     ```                                                                                                                                                               ```
     ```  SOAPBOX ON                                                                                                                                                   ```
     ```                                                                                                                                                               ```
-    ```   ASSUMPTIONS: PROGRAMMERS SAS and three products. Output DLLs or exes are not required.                                                                      ```
+    ```   ASSUMPTIONS: PROGRAMMERS SAS and three products. Does not support output DLLs or exes.                                                                      ```
     ```                                                                                                                                                               ```
     ```    1. Base Classic SAS(without EE,EG,UE,on Demand, Viya, Enterprise this, Studio that)                                                                        ```
     ```    2. SAS STAT                                                                                                                                                ```
