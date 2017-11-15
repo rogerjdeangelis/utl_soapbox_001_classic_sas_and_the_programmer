@@ -12,7 +12,7 @@ Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS
     ```    3. SAS CONNECT (using persistent SSL to Server Unix kernel without SAS lockdown)                                                                           ```
     ```                                                                                                                                                               ```
     ```                                                                                                                                                               ```
-    ```  1. Classic SAS has the best IDE. I have used multple Python, Perl and R IDEs                                                                                 ```
+    ```  1. Classic SAS has the best IDE. I have used multiple Python, Perl and R IDEs                                                                                 ```
     ```     including Eclipse spinoffs over many years.                                                                                                               ```
     ```                                                                                                                                                               ```
     ```     1. All of SAS can be executed from the command line                                                                                                       ```
