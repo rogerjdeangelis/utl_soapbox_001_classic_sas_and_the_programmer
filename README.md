@@ -21,7 +21,7 @@ Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS
     ```     3. Interaction with editor text.                                                                                                                          ```
     ```     4. Workstation command macros that execute other languages, IE Perl, R and Python                                                                         ```
     ```        that can interact with Server Unix or windows editor text seemlessly, ie lstx for 40 obs                                                                                      ```
-    ```        of last created Unix or windows table .                                                                           ```
+    ```        of last created Unix or windows table .                                                                     ```
     ```        Requires SAS connect and SSL to the Unix process running a simutaneous SAS process.                                                                    ```
     ```                                                                                                                                                               ```
     ```  2. A macro language that dwarfs the capabilities of other languages.                                                                                         ```
@@ -35,9 +35,9 @@ Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS
     ```     I also feel zipped XML projects are less maintainable then combinations                                                                                   ```
     ```     of Perl and SAS)                                                                                                                                          ```
     ```                                                                                                                                                               ```
-    ```  3. Classic SAS has the most readable and maintainable code.                                                                                                  ```
-    ```     Except when matrix programming when R is required.                                                                                        ```
-    ```     Even though I prefer IML(more readable) to R the fact that many sites do not have IML                                                                     ```
+    ```  3. Classic SASand SAS/IML have the most readable and maintainable code.                                                                                                  ```
+    ```     Except when R is required.                                                                                        ```
+    ```     Even though I prefer IML(more readable) to R the fact remains that many sites do not have IML                                                                     ```
     ```     eliminates it from this discussion.                                                                                                                       ```
     ```                                                                                                                                                               ```
     ```  4. Looping in SAS is cleaner than Perl, Python or R. It is                                                                                                   ```
@@ -47,23 +47,23 @@ Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS
     ```  5. Although in its infancy, DOSUBL, has potential you don't see                                                                                              ```
     ```     in other languages. however it is only an academic exercise right now and                                                                                 ```
     ```     intial observations is that it will never be stategic.                                                                                                    ```
-    ```     It appears to save and restore multiple enviroments instead of integrating them.                                                                          ```
+    ```     It appears to save and restore multiple enviroments(sddress spaces) instead of integrating them.                                                  ```
     ```                                                                                                                                                               ```
     ```        A. Allows for compile time execution of all of SAS, Perl, Python or R within one                                                                       ```
-    ```           datastep ot SQL address space.                                                                                                                      ```
+    ```           datastep or SQL address space.                                                                                                                      ```
     ```        B. Allows macros and all of SAS to be executed interatively within a                                                                                   ```
-    ```           dtatstep.                                                                                                                                           ```
+    ```           one datatstep.                                                                                                                                           ```
     ```        C. Could eventually eliminate, DS2, FCMP and RunMacro.                                                                                                 ```
     ```                                                                                                                                                               ```
     ```  Note not enough differntiation                                                                                                                               ```
     ```                                                                                                                                                               ```
     ```  HASH Objects     - Perl                                                                                                                                      ```
     ```  Regx             - Perl                                                                                                                                      ```
-    ```  Most Studio      - Just don't understand the market                                                                                                          ```
+    ```  Most Studio prods- Just don't understand the market                                                                                                          ```
     ```  Enterprise this  - Perl, Python and R modules and packages                                                                                                   ```
     ```  Arrays           - R                                                                                                                                         ```
-    ```  Graphics         - R is not as readable as SAS but is nicely integrated with visual AI and has all the function of SAS                                                                                                                                                 ```
-    ```  SAS has the non-programming market!!!                                                                                                                        ```
+    ```  Graphics         - R is not as readable as SAS but is nicely integrated with AI and has all the function of SAS                                                                                                                                                 ```
+    ```  SAS dominates the non-programming market!!!                                                                                                                        ```
     ```                                                                                                                                                               ```
     ```  SOAPBOX OFF                                                                                                                                                  ```
     ```                                                                                                                                                               ```
