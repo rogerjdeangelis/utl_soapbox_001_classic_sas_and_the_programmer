@@ -1,5 +1,5 @@
 # utl_soapbox_001_classic_sas_and_the_programmer
-Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS: PROGRAMMERS SAS and three products. Output DLLs or exes are not required.
+Classic SAS and the Programmer. Classic SAS product differentiators. ASSUMPTIONS: PROGRAMMERS SAS and three products. Output DLLs or exes are not supported.
 
     ```  SOAPBOX_001: Classic SAS and the Programmer. Classic SAS product differentiators.                                                                            ```
     ```                                                                                                                                                               ```
